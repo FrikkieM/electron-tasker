@@ -1,0 +1,24 @@
+{
+  "name": "TaskerApp",
+  "version": "1.0.0",
+  "description": "A Basic Task Logging App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "task"
+  ],
+  "author": "FrikkieM",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^9.0.4"
+  },
+  "dependencies": {
+    "electron-reload": "^1.5.0",
+    "electron-store": "^5.2.0",
+    "spectre.css": "^0.5.8"
+  }
+}
